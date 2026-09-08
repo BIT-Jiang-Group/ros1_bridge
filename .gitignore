@@ -1,0 +1,14 @@
+# colcon 构建产物
+/build/
+/install/
+/log/
+/.colcon/
+
+# Python、测试和编辑器缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+*.swp
+*.swo
